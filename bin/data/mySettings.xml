@@ -1,0 +1,23 @@
+<SYSTEM>
+	<AXIOM>A</AXIOM>
+	<RULES>
+		<RULE>
+			<pre>A</pre>
+			<succ>AB</succ>
+		</RULE>
+		<RULE>
+			<pre>B</pre>
+			<succ>A</succ>
+		</RULE>
+	</RULES>
+	<VARIABLES>
+		<VARIABLE>
+			<var>A</var>
+			<move>MOVE1</move>
+		</VARIABLE>
+		<VARIABLE>
+			<var>B</var>
+			<move>MOVE2</move>
+		</VARIABLE>
+	</VARIABLES>
+</SYSTEM>
